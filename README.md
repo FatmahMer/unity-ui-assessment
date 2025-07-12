@@ -45,8 +45,8 @@ A custom C# script was written to control UI button behavior:
 ## Output Example
 Here is a screenshot of the app output:
 
-![Output 1](Output_Image1.png)
 ![Output 2](Output_Image2.jpeg)
+![Output 1](Output_Image1.png)
 
 
 ## 👩‍💻 Author
