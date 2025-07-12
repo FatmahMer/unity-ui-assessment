@@ -1,0 +1,19 @@
+# Unity build folders and temp files
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+Logs/
+MemoryCaptures/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# OS/mac specific files
+.DS_Store
+
+# Unity Burst-related packages
+Packages/com.unity.burst*/
