@@ -9,6 +9,10 @@ This project is a clean and functional main menu UI built in Unity 2D as part of
 - Anchors and pivots are set properly to ensure the layout **remains consistent in both portrait and landscape modes**.
 - A **Safe Area** script was added at the Canvas level and adjusted manually to fit different screen devices, including those with notches or curved edges.
 - UI components were tested under multiple resolutions to validate scalability.
+### 🧱 Unity Hierarchy View
+Here is how the scene hierarchy is structured in Unity:
+
+![Hierarchy](Hierarchy.png)
 
 ## 🔧 Features
 - 🎮 **Animated buttons** with hover scale using Unity's Animator
