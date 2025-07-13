@@ -27,6 +27,12 @@ A custom C# script was written to control UI button behavior:
 - Triggers animation and visual feedback on hover
 - Keeps the behavior modular and reusable across multiple UI buttons
 
+### 🎨 Custom Hover Effect Script
+
+A lightweight C# script was written to change the button color on hover and reset it when the pointer leaves:
+
+![HoverColor Script](HoverColorScript.png)
+
 ## ⚠️ Challenges & Suggestions
 - **Challenge:** When applying scale animations, button positions shifted due to layout recalculation.
 - **Solution:** Used a nested GameObject for animations or applied `LayoutElement` + manual size override to avoid shifting.
